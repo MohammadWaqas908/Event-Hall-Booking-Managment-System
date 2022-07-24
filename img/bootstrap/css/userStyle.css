@@ -1,0 +1,84 @@
+		.dropdown-menu {
+			min-width: inherit !important;
+			max-width: 88px !important;
+		}
+		body{
+			background-color: #24c950;
+		}
+		.btn{
+			margin-left: 15px;
+			width: 115px;
+		}
+		label{
+			margin-left: 15px;
+			font-size:22px;
+		}
+		/*HeadingTxt*/
+		.heading{
+			text-align: center;
+			font-weight:bold;
+		}
+		/*RegisterBtn*/
+		.regBtn button{
+			width:250px;
+			height:44px;
+			margin-top:25px;
+		}
+		.cartItem li{
+			margin-left:-15px;
+			
+		}
+	
+
+
+
+
+
+
+
+
+		.form-control{
+			width: 550px;
+			margin-left: 15px
+		}
+		
+		
+		
+		
+		.form_div{
+			align-content: center;
+		}
+		.form-control{
+			width: 250px;
+		}
+		.fluid-container{
+    		display: flex;
+    		justify-content: center;
+    		align-items: center;
+    	}
+
+		.card{
+    		float: left;
+    		margin-left: 11px;
+       }
+       .menutext{
+       	font-weight:bold;
+       }
+       /*title heading div*/
+       .title_heading{
+		height: 70px;
+       }
+       	.title_heading h1{
+       		text-align: center;
+       		margin: 50px;
+       		font-weight:bold;
+       	}
+       	.footer {
+			position: absolute;
+			left: 0;
+			bottom: 0;
+			margin-top: 15px;
+			width: 100%;
+			color: white;
+			background-color: black;
+		}

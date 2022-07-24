@@ -1,0 +1,2 @@
+Create datebase with the name of: ehbms
+and import this sql file.

@@ -1,0 +1,137 @@
+		.dropdown-menu {
+			min-width: inherit !important;
+			max-width: 88px !important;
+		}
+		body{
+			background-color: #24c950;
+		}
+		.btn{
+			margin-left: 15px;
+			width: 115px;
+		}
+		label{
+			margin-left: 15px;
+			font-size:20px;
+		}
+		/*HeadingTxt*/
+		.heading{
+			text-align: center;
+			font-weight:bold;
+		}
+		
+		.standardBtn button{
+			width:250px;
+			margin-top:20px;
+		}
+		/*AllTables*/
+	  .standardTable table{
+	  	margin-top:-100;
+	  }
+	  .standardTable tr{
+	  	background-color:#414042;
+	  	color:white;
+	  }
+	  .standardTable td{
+	  	background-color:#24c950;
+	  	color:black;
+	  	
+	  }
+
+		.hallImg{
+			float: left;
+		}
+		.searchBar{
+			align-content:left;
+			width:58%;
+			margin-top:-33px;
+			margin-left:-99px;
+			height: 66px; 
+		}
+			.card{
+    		float: left;
+    		margin-left: 15px;
+    		margin-bottom: 20px;
+    		height:510px;
+    		width: 20rem;
+       }
+       .card a{
+       	width:255px; 
+       	height:40px;
+       	font-weight:bold;
+       }
+        .halldetailHeading{
+        	height:600px; 
+        	background-color:lightgreen;
+        	border-radius:5px;
+
+        }
+
+         .halldetailHeading h3{
+         	margin:3px;
+         	text-align:center;
+         }
+
+		.form-control{
+			width: 550px;
+			margin-left: 15px
+		}
+				
+		.form_div{
+			align-content: center;
+		}
+		.form-control{
+			width: 250px;
+		}
+		.fluid-container{
+    		display: flex;
+    		justify-content: center;
+    		align-items: center;
+    	}
+
+       .menutext{
+       	font-weight:bold;
+       }
+
+       .title_heading{
+		height: 70px;
+       }
+       	.title_heading h1{
+       		text-align: center;
+       		margin: 50px;
+       		font-weight:bold;
+       	}
+       	.billTable{
+       		width:700px;
+       		margin-left:222px; 
+       	}
+      .billTable a{
+      	width:250px;
+      	font-weight:bold;
+      	margin-left:200px;
+      }
+      .editBooking form {
+      	width:600px; 
+      }
+      .feedbackDiv form{
+      width:600px;
+      margin-left:400px;
+     
+      }
+       .standardForm{
+       	width:650px; 
+      	margin-left:250px; 
+       }
+        .adminBtn button{
+        width: 250px;
+        height: 77px;
+        margin-top: 30px;
+        margin-left:100px; 
+        color: white;
+        border: none;
+        border-radius: 10px;
+        font-size: 30px;
+        font-weight: bold;
+
+      }
+      
+      
